@@ -1,0 +1,8 @@
+---
+title: "CV"
+toc: false
+---
+
+[Download CV](assets/Zimmerman_David_CV.pdf){.button}
+
+<iframe class="cv-frame" src="assets/Zimmerman_David_CV.pdf" title="David Zimmerman CV"></iframe>

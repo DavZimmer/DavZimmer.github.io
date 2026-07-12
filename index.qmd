@@ -1,0 +1,37 @@
+---
+title: "David Zimmerman"
+---
+
+::: {.home-grid}
+::: {.home-photo}
+![](assets/profile.jpeg){fig-alt="David Zimmerman"}
+
+<div class="profile-links" aria-label="Profile links">
+  <a href="https://scholar.google.com/citations?user=6fjwHO0AAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar"><span class="profile-icon scholar">GS</span></a>
+  <a href="https://orcid.org/0000-0001-5784-2733" aria-label="ORCID" title="ORCID"><span class="profile-icon orcid">iD</span></a>
+  <a href="https://github.com/DavZimmer" aria-label="GitHub" title="GitHub"><i class="bi bi-github"></i></a>
+  <a href="https://www.linkedin.com/in/david-zimmerman-7564636a" aria-label="LinkedIn" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+</div>
+:::
+
+::: {.home-intro}
+I study behavioral decision making, consumer finance, uncertainty, financial planning, disclosure design, and the ways that measurement choices shape conclusions. My work uses experiments, surveys, and applied behavioral science to understand financial decisions and improve policy-relevant evidence.
+
+I am also interested in [building state capacity](https://www.niskanencenter.org/policy/state-capacity/) and [AI (benchmarking)](https://hai.stanford.edu/ai-index/2026-ai-index-report).
+
+I am currently a Financial Economist Fellow in the [Office of the Investor Advocate](https://www.sec.gov/about/divisions-offices/office-investor-advocate) at the U.S. Securities and Exchange Commission. Previously, I was a Research Assistant Fellow at the Consumer Financial Protection Bureau. I received my PhD from UCLA Anderson, where I specialized in [Behavioral Decision Making](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making).
+:::
+:::
+
+## Research Areas
+
+- Behavioral decision making and consumer finance
+- Use of behavioral science in policy creation and justification
+- Uncertainty estimation and measurement
+- AI Benchmark Design
+- Financial planning horizons and financial time horizons
+- Disclosure design and consumer comprehension
+
+
+
+

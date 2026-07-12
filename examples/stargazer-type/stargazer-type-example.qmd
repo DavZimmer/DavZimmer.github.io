@@ -1,0 +1,54 @@
+---
+title: "Minimal stargazer type example for Quarto"
+format:
+  html: default
+  pdf: default
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+```{r}
+format <- tryCatch(
+  quarto::quarto_metadata$output_format$pandoc$to,
+  error = function(e) NULL
+)
+
+if (is.null(format)) {
+  stargazer_type <- "text"
+} else if (format %in% c("html", "html4", "html5")) {
+  stargazer_type <- "html"
+} else if (format %in% c("latex", "pdf")) {
+  stargazer_type <- "latex"
+} else {
+  stargazer_type <- "html"
+}
+```
+
+This document chooses `stargazer_type` from the Quarto output format.
+
+```{r}
+library(stargazer)
+
+model_1 <- lm(mpg ~ wt + hp, data = mtcars)
+model_2 <- lm(mpg ~ wt + hp + am, data = mtcars)
+```
+
+```{r}
+#| results: asis
+stargazer(
+  model_1,
+  model_2,
+  dep.var.labels = "Miles per gallon",
+  covariate.labels = c("Weight", "Horsepower", "Manual transmission"),
+  notes = paste0(
+    "The same stargazer call can render as HTML, LaTeX, or text. ",
+    "Only the value of type changes."
+  ),
+  keep.stat = "n",
+  notes.append = TRUE,
+  digits = 2,
+  type = stargazer_type
+)
+```

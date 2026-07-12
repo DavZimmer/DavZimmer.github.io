@@ -1,0 +1,11 @@
+---
+title: "Posts"
+toc: false
+---
+
+## Posts
+
+[Flexible analysis output using Stargazer](stargazer-type/index.html)
+
+A minimal example showing why hard-coding `stargazer`'s `type` argument is annoying, and how to set it dynamically for RStudio, R Markdown, and Quarto output.
+

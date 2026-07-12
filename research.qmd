@@ -1,0 +1,53 @@
+---
+title: "Research"
+---
+
+This page lists publications, working papers, and selected projects. Links to publications and reproduction materials: data, code, and study materials. 
+
+
+## Publications
+
+Chin, Alycia, Carman, Katherine G., Craig, Adam W., Cook, Jonathan A., and Zimmerman, David B. (2026). "Turning policy implications into policy impact: Lessons from behavioral science in financial markets." *Proceedings of the National Academy of Sciences*, 123(28), e2525990123.  
+[Publication link](https://doi.org/10.1073/pnas.2525990123)
+
+
+Aczel, Balazs, Szaszi, Barnabas, Clelland Harry T., including Zimmerman, David. (2026). "Investigating the analytical robustness of the social and behavioural sciences." *Nature*, 1-10.  
+[Publication link](https://www.nature.com/articles/s41586-025-09844-9) | [Study data and materials](https://osf.io/q5h2c/),  [Code](https://github.com/marton-balazs-kovacs/multi100/)
+
+Zimmerman, David, Chin, Alycia, and Bruine de Bruin, Wandi. (2026). "Question Design Matters: Response Options Influence the Length of Reported Financial Time Horizons." *Journal of Behavioral Finance*, 1-12.  
+[Publication link](https://www.tandfonline.com/doi/abs/10.1080/15427560.2025.2609647) | [Research materials](https://researchbox.org/3483)
+
+Bruine de Bruin, Wandi, Chin, Alycia, Zimmerman, David, and van der Klaauw, Wilbert. (2025). "Everything in its own time: Planning Horizons vary across financial domains." *Journal of Behavioral Decision Making*, 38(4), e70035.  
+[Publication link](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdm.70035) | Research materials: [Study 1](https://uasdata.usc.edu/index.php) (Surveys 18, 119, 239, and 460); [Study 2]( https://alpdata.rand.org/?page=data) (Survey 16); [Study 3 Data]( https://newyorkfed.org/medialibrary/media/research/microeconomics/sce/downloads/SCE_Planning_Horizons_data) [Study 3 Survey](https://www.newyorkfed.org/medialibrary/media/research/microeconomics/sce/downloads/sce_planning-horizons-questions.pdf?sc_lang=en)
+
+Zimmerman, David, Spiller, Stephen, Reinholtz, Nicholas, and Maglio, Sam. (2025). "When Metrics Matter: The Impact of Elicitation Metric on Uncertainty Estimates." *Cognition*, 265, 106277.  
+[Publication link](https://stephenaspiller.com/assets/ZimmermanSpillerReinholtzMaglio2025.pdf) | [Research materials](https://researchbox.org/490)
+
+Chin, A., Zimmerman, D., Johnson, H., and Shu, S. B. (2022). "Decisions about overdraft coverage: Disclosure design and personal finances." *Journal of Experimental Psychology: Applied*, 28(4), 746-774.  
+[Publication link](https://psycnet.apa.org/record/2023-34213-001) | [Research materials](https://researchbox.org/348)
+
+Warmath, D., and Zimmerman, D. (2019). "Financial Literacy as More than Knowledge: The Development of a Formative Scale through the Lens of Bloom's Domains of Knowledge." *Journal of Consumer Affairs*, 53(4), 1602-1629.  
+
+
+## Government Reports
+
+U.S. Securities and Exchange Commission, Office of the Investor Advocate. (2023). "Registered Index-Linked Annuities."  
+[Report](https://www.sec.gov/files/rila-report-092023.pdf)
+
+U.S. Securities and Exchange Commission, Office of the Investor Advocate. (2025). "Registered Investment Company Fees."  
+[Report](https://www.sec.gov/files/ric-fees-report.pdf)
+
+
+
+## Selected Works In Progress
+
+Chin, Alycia, Zimmerman, David, Cook, Jonathan, Carman, Katherine, and Scholl, Brian. "The Benefits of Searching for Alternative Mutual Funds: The Role of Relative Costs in an Information Experiment." Working paper.  
+
+
+Carman, Katherine, Chin, Alycia, Cook, Jonathan, Nash, Steven B., Scholl, Brian, and Zimmerman, David B. "Understanding the Performance of Registered Index-Linked Annuities."  
+
+
+Zimmerman, David. "Risk Loving, Confused, or Misled? The Mystery of Risk Seeking Choices." In preparation.  
+
+
+

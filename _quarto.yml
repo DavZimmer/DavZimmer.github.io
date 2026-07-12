@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - examples/**
+  render:
+    - index.qmd
+    - research.qmd
+    - cv.qmd
+    - posts/**/*.qmd
+
+website:
+  title: "David Zimmerman"
+  site-url: "https://DavZimmer.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: posts/index.qmd
+        text: Posts
+  page-footer:
+    left: "© David Zimmerman"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

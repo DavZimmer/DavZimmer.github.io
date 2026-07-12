@@ -4,7 +4,7 @@
 
 David Zimmerman wants a minimal academic website built with Quarto and published through GitHub Pages at <https://DavZimmer.github.io>. The goal is a working first version that is simple to edit and extend later, rather than a highly designed final site.
 
-The site should be generated locally into files that GitHub Pages can serve. The GitHub repository should remain named `DavZimmer.github.io` for a user GitHub Pages site, but the local folder should be named `academic-website`.
+The site is generated locally with Quarto and published through GitHub Pages. The GitHub repository and local folder are both named `DavZimmer.github.io`, which is the standard user-site repository name for publishing at <https://davzimmer.github.io/>.
 
 ## Initial Site Structure
 
@@ -28,8 +28,8 @@ The site should be generated locally into files that GitHub Pages can serve. The
 - Static site generator: Quarto.
 - Style: simple, minimal, academic.
 - Deployment: render locally and commit the rendered site files for GitHub Pages to serve.
-- Local folder: `/Users/davidzimmerman/academic-website`.
-- GitHub Pages URL: `https://DavZimmer.github.io`.
+- Local folder: `/Users/davidzimmerman/DavZimmer.github.io`.
+- GitHub Pages URL: `https://davzimmer.github.io`.
 
 ## Open Placeholders To Replace Later
 
@@ -44,5 +44,5 @@ The site should be generated locally into files that GitHub Pages can serve. The
 2. Replace the profile placeholder with a real image, for example `assets/profile.jpg`.
 3. Update links in `_quarto.yml`.
 4. Add real publication and project entries to `research.qmd`.
-5. Run `quarto render`.
-6. Push the generated site files to the `DavZimmer.github.io` repository.
+5. Run `./render-site.sh`.
+6. Commit and push the updated files to the `DavZimmer.github.io` repository.

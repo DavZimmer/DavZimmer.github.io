@@ -1,14 +1,14 @@
 # David Zimmerman Academic Website
 
-Minimal Quarto website for <https://DavZimmer.github.io>.
+Minimal Quarto website for <https://davzimmer.github.io/>.
 
 ## Local Render
 
 ```sh
-quarto render
+./render-site.sh
 ```
 
-Rendered files are written to `docs/`.
+Quarto renders files to `docs/`, then `render-site.sh` copies the rendered files to the repository root because GitHub Pages is serving the root of `main`.
 
 ## Files To Update
 

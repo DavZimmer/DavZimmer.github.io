@@ -8,12 +8,4 @@
 .Rproj.user/
 _freeze/
 /assets/~$*
-/*.html
-/posts/**/*.html
-/site_libs/
-/search.json
-/sitemap.xml
-/listings.json
-/robots.txt
-
 /assets/*.docx

@@ -7,5 +7,6 @@
 .Rhistory
 .Rproj.user/
 _freeze/
+_site/
 /assets/~$*
 /assets/*.docx

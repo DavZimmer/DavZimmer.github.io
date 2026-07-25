@@ -1,7 +1,3 @@
----
-title: "David Zimmerman"
----
-
 ::: {.home-grid}
 ::: {.home-photo}
 ![](assets/profile.jpeg){fig-alt="David Zimmerman"}
@@ -31,7 +27,5 @@ I am currently a Financial Economist Fellow in the [Office of the Investor Advoc
 - AI Benchmark Design
 - Financial planning horizons and financial time horizons
 - Disclosure design and consumer comprehension
-
-
 
 

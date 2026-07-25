@@ -27,7 +27,8 @@ The site is generated locally with Quarto and published through GitHub Pages. Th
 
 - Static site generator: Quarto.
 - Style: simple, minimal, academic.
-- Deployment: render locally and commit the rendered site files for GitHub Pages to serve.
+- Deployment: render locally and commit the rendered site files at the repository root for GitHub Pages to serve.
+- Render workflow: Quarto renders to a temporary `docs/` directory, `render-site.sh` copies the output to the repository root, and then removes `docs/`.
 - Local folder: `/Users/davidzimmerman/DavZimmer.github.io`.
 - GitHub Pages URL: `https://davzimmer.github.io`.
 

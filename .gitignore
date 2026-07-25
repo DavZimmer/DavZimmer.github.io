@@ -8,5 +8,6 @@
 .Rproj.user/
 _freeze/
 _site/
+docs/
 /assets/~$*
 /assets/*.docx

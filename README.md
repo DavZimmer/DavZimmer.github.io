@@ -8,7 +8,7 @@ Minimal Quarto website for <https://davzimmer.github.io/>.
 ./render-site.sh
 ```
 
-Quarto renders files to `docs/`, then `render-site.sh` copies the rendered files to the repository root because GitHub Pages is serving the root of `main`.
+Quarto renders files to a temporary `docs/` directory, then `render-site.sh` copies the rendered files to the repository root because GitHub Pages is serving the root of `main`. The script removes `docs/` after copying so the repository does not keep duplicate rendered output.
 
 ## Files To Update
 

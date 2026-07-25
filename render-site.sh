@@ -3,3 +3,4 @@ set -euo pipefail
 
 quarto render
 cp -R docs/. .
+rm -rf docs
